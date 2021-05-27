@@ -1,0 +1,19 @@
+{
+  "name": "note_tkr",
+  "version": "1.0.0",
+  "description": "Create, save and view your Notes with NoteTkr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likica/note_tkr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likica/note_tkr/issues"
+  },
+  "homepage": "https://github.com/Likica/note_tkr#readme"
+}
