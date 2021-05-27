@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Likica/note_tkr/issues"
   },
-  "homepage": "https://github.com/Likica/note_tkr#readme"
+  "homepage": "https://github.com/Likica/note_tkr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
