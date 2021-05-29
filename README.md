@@ -1,6 +1,6 @@
 # note_tkr
   ### By likica * [Email me](mailto:fahrija_wyroski@live.com) * 
-  * [Deployed Appplication In Progress]()
+  * [Deployed Appplication In Progress](https://likicanotetkr.herokuapp.com/)
  
   ## Table of contents
   * [Description](#Description)
@@ -24,7 +24,20 @@
 
   ## Usage Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  Open URL, add your note, view your note and add another note if you want
+* Open URL, add your note, view your note and add another note if you want
+
+<h3 align="center" width="100%">
+ <br>NoteTkr Landing Page</br>
+<p align="center" width="100%">
+    <img src="public/assets/images/NoteTkr_lp.png" width="40%"/>
+     <h3 align="center" width="100%">
+ <br>NoteTkr Enter New Note</br>
+<p align="center" width="100%">
+    <img src="public/assets/images/newNote.png" width="40%"/>
+     <h3 align="center" width="100%">
+ <br>NoteTkr Save Note</br>
+<p align="center" width="100%">
+    <img src="public/assets/images/savedNote.png" width="40%"/>
 
   ## Contributing
   ##### [Back to Table of Contents](#Table-of-Contents)
@@ -32,8 +45,8 @@
 
   ## Tests
   #### [Back to Table of Contents](#Table-of-Contents)
-  1. None
-  2. None
+  1. Tested routes on local server
+  2. Launched to Heroku
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
