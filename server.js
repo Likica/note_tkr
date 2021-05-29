@@ -3,8 +3,8 @@ const express = require('express');
 //initiate server
 const PORT = process.env.PORT || 3001;
 const app = express();
-const apiRoutes = require('./routes/apiRoutes');
-const htmlRoutes = require('./routes/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes/index');
+const htmlRoutes = require('./routes/htmlRoutes/index');
 
 //MIDDLEWARE
 //parse incoming string or array of data
